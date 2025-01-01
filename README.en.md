@@ -277,7 +277,7 @@ This file is translation from Original (Bahasa Indonesia).
 | Indiwtf API                  | Frans Allen              | [Link](https://indiwtf.com/api/)                      | ✅     | A simple API to check if a website is blocked in Indonesia or not.                       | `false`        |
 | Screenshot API               | statically.io            | [Link](https://statically.io)                         | ✅     | A free screenshot API to convert web to image or PDF. Supports desktop and mobile views. | `false`        |
 | SMSNotif                     | PT Solusi Inovasi Bisnis | [Link](https://www.smsnotif.id)                       | ✅     | Send SMS through REST API or Laravel Notification.                                       | API KEY        |
-| TimeApi                      | Mininxd                  | [Link](https://timeapi.mininxd.my.id)                 | ✅     | API to display real-time UNIX-based time and date.                                       | `false`        |
+| TimeApi                      | Mininxd                  | [Link](https://timeapi.mininxd.my.id)                 | ❎     | API to display real-time UNIX-based time and date.                                       | `false`        |
 | Translasi                    | azharimm                 | [Link](https://github.com/azharimm/api-translate)     | ✅     | Translation API with Google Translate/Baidu Translate engine.                            | `false`        |
 
 ### Weather
